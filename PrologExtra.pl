@@ -1,3 +1,4 @@
+;Michael Luney Program
 program(begin,stmt_list,end).
 id(assign,expr,";").
 read(id,";").
@@ -27,4 +28,3 @@ id("endif").
 id("then").
 id("while").
 id("endwh").
-;Michael Luney Project 
